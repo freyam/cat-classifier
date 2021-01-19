@@ -1,1 +1,1 @@
-# image-classification-using-a-neural-network
+# Image Classification of Cats using Deep Neural Networks
